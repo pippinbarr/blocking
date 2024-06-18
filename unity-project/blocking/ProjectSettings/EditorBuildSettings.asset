@@ -6,6 +6,6 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/BBlock/@Resources/SampleScene/SampleScene.unity
-    guid: b704dc434d9a2364b9449ffba4561f39
+    path: Assets/Scenes/Prototyping.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
   m_configObjects: {}
